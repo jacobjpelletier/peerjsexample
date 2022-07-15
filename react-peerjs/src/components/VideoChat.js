@@ -2,7 +2,7 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import '../css/VideoChat.css';
 import { React, useEffect, useRef, useState } from 'react';
-import Peer from 'peerjs';
+import { Peer } from 'peerjs';
 
 //import {useState} from 'react';
 
