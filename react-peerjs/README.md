@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# peerjsexample
+
+## To get up and running
+1. clone repo
+2. locate react-peerjs directory
+3. run `npm install`
+4. run `npm run start`
+5. open two browsers and navigate to localhost:3000
+6. complete the call via onscreen directions
+7. enjoy the infinite feedback loop while your ears melt
